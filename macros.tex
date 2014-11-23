@@ -1,0 +1,75 @@
+
+% Macros
+\newcommand\limply{\rightarrow}
+\newcommand\type[1]{{\tt #1}}
+\newcommand\nin{\noindent}
+\newcommand\true{\mbox{{\sc true}}\xspace}
+\newcommand\false{\mbox{{\sc false}}\xspace}
+\newcommand\comment[1]{}
+%\newcommand\note[2]{\begin{itemize} \item[$\Diamond$ \emph{Side-Note $\rangle$}] {\bf #1: }#2 $\Diamond$\end{itemize}}
+\newcommand\brackets[1]{\vspace{0.5 cm}\begin{center}#1\end{center}\vspace{0.3 cm}}
+\newcommand\alg[1]{{\sc #1}}
+\newcommand\margin[1]{\marginpar{\fbox{#1}}}
+\newcommand\first[2]{\margin{#2}\label{page:#1}}
+\newcommand\graph[2]{\begin{figure} \begin{center}\scalebox{0.7}{\input{#1.pstex_t}}\caption{\label{fig-eq:#1}#2}\end{center}\end{figure}}
+\newcommand\tool[1]{{\sc #1}}
+
+% eq specific macros
+
+
+
+\newcommand\E{\mbox{\tiny E}} % for superscript E
+\newcommand\eq{\varphi^{\E}} % Equality formula (after reduction)
+\newcommand\peq{{\psi^{\E}}}  % Equality formula (after reduction)
+\newcommand\equf{\varphi^{\mbox{\tiny UF}}}% Equality formula with uninterpreted functions (before reduction)
+\newcommand\eqfc{consistent^{\E}} % Functional consistency constraints
+\newcommand\eqflat{flat^{\E}} % same as \equf, when ufs are replaced with variables
+\newcommand\eqF{\varphi^{\E}_\star} % same as \equf, when ufs are replaced withthe \F variables
+\newcommand\bool{\varphi} % Propositional formula
+%\newcommand\enc{\bool_{enc}} % Boolean encoding
+
+\newcommand\enc{\mathcal{B}} % Boolean encoding
+\newcommand\trans{\mathcal{T}}
+\newcommand\transbv{\mathcal{T}^{S}} % Transitivity constraints due to Boolean encoding
+\newcommand\transopt{\mathcal{T}^{R}}
+\newcommand\alphaopt{\alpha}%used to be \alpha^R
+\newcommand\alphabv{\alpha'}%used to be \alpha^S
+
+%\newcommand\trans{\bool_{trans}}
+%\newcommand\transbv{\bool^{bv}_{trans}} % Transitivity constraints due to Boolean encoding
+%\newcommand\transopt{\bool^{opt}_{trans}}
+\newcommand\eqgraph{G^{\E}}
+\newcommand\eqp{=^*} % Equality path
+\newcommand\eqpa[1]{=^*_{#1}} % Equality path under an assignment
+\newcommand\eqda[1]{\neq^*_{#1}} % disEquality path under an assignment
+\newcommand\neqp{\neq^*} % disequality path
+\newcommand\eqsp{=^*_s}
+\newcommand\neqsp{\neq^*_s}
+\newcommand\size[1]{\vert #1\vert}
+\newcommand\Ene{E_{\neq}} % set of \neq edges
+\newcommand\Eeq{E_=} %  set of = edges
+\newcommand\Geq{\eqgraph_=} % dashed sub-graph (representing \Eeq)
+\newcommand\Gne{\eqgraph_{\neq}} % solid sub-graph (representing \Ene)
+\newcommand\Gin{G_{\emph{inc}}}
+\newcommand\cha{\emph{char}}
+\newcommand\F{F^\star}
+\newcommand\G{G^\star}
+% from cav01
+\newtheorem{Yrule}{Rule}
+\newtheorem{YTrule}{(Suggested) Rule}
+\newcommand{\simple}[1]{{\it simp}({#1})}
+% uf specific macros
+\newcommand\Fcase[1]{$\left( \mbox{\begin{tabular}{lll}#1 \end{tabular}} \right)$}
+\newcommand\Fcaseb[1]{$\left( \mbox{\begin{tabular}{lllll}#1 \end{tabular}} \right)$}
+\newcommand\UFs{Uninterpreted Functions\xspace}
+\newcommand\UF{Uninterpreted Function\xspace}
+%\newtheorem{problem}{Problem}[chapter]
+
+% Environments
+
+
+
+%\newenvironment{definition}[1][Definition]{\begin{trivlist}
+%\item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
+%\newenvironment{example}[1][Example]{\begin{trivlist}
+%\item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
