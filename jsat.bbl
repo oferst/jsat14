@@ -1,0 +1,305 @@
+\begin{thebibliography}{10}
+
+\bibitem{DBLP:conf/lpar/AsinNOR08}
+Roberto As\'{\i}n, Robert Nieuwenhuis, Albert Oliveras, and Enric
+  Rodr\'{\i}guez-Carbonell.
+\newblock Efficient generation of unsatisfiability proofs and cores in {SAT}.
+\newblock In Iliano Cervesato, Helmut Veith, and Andrei Voronkov, editors, {\em
+  LPAR}, ~{\bf 5330} of {\em Lecture Notes in Computer Science}, pages 16--30.
+  Springer, 2008.
+
+\bibitem{DBLP:conf/ijcai/BakkerDTW93}
+R.~R. Bakker, F.~Dikker, F.~Tempelman, and P.~M. Wognum.
+\newblock Diagnosing and solving over-determined constraint satisfaction
+  problems.
+\newblock In {\em IJCAI}, pages 276--281, 1993.
+
+\bibitem{BKS04}
+P.~Beame., H.~Kautz, and A.~Sabharwal.
+\newblock Towards understanding and harnessing the potential of clause
+  learning.
+\newblock {\em Journal of Artificial Intelligence Research}, {\bf 22}:319--351,
+  2004.
+
+\bibitem{DBLP:conf/date/Belov0MM13}
+Anton Belov, Huan Chen, Alan Mishchenko, and Joao Marques-Silva.
+\newblock Core minimization in {SAT}-based abstraction.
+\newblock In Enrico Macii, editor, {\em DATE}, pages 1411--1416. EDA Consortium
+  San Jose, CA, USA / ACM DL, 2013.
+
+\bibitem{DBLP:journals/aicom/BelovLM12}
+Anton Belov, In{\^e}s Lynce, and Jo{\~a}o Marques-Silva.
+\newblock Towards efficient {MUS} extraction.
+\newblock {\em AI Commun.}, {\bf 25}(2):97--116, 2012.
+
+\bibitem{BM11}
+Anton Belov and Jo{\~a}o Marques-Silva.
+\newblock Accelerating {MUS} extraction with recursive model rotation.
+\newblock In {\em FMCAD'11}, pages 37--40, 2011.
+
+\bibitem{BelovM12}
+Anton Belov and Jo{\~a}o Marques-Silva.
+\newblock {MUSer2}: An efficient {MUS} extractor.
+\newblock {\em JSAT}, {\bf 8}(1/2):123--128, 2012.
+
+\bibitem{B08}
+Armin Biere.
+\newblock {PicoSAT} essentials.
+\newblock {\em JSAT}, {\bf 4}(2-4):75--97, 2008.
+
+\bibitem{BRUNI03}
+Renato Bruni.
+\newblock Approximating minimal unsatisfiable subformulae by means of adaptive
+  core search.
+\newblock {\em Discrete Appl. Math.}, {\bf 130}(2):85--100, 2003.
+
+\bibitem{DBLP:conf/vlsi/0001M11}
+Huan Chen and Joao Marques-Silva.
+\newblock Improvements to satisfiability-based boolean function
+  bi-decomposition.
+\newblock In Salvador Mir, Chi-Ying Tsui, Ricardo Reis, and Oliver C.~S. Choy,
+  editors, {\em VLSI-SoC (Selected Papers)}, ~{\bf 379} of {\em IFIP Advances
+  in Information and Communication Technology}, pages 52--72. Springer, 2011.
+
+\bibitem{DBLP:journals/informs/ChinneckD91}
+John~W. Chinneck and Erik~W. Dravnieks.
+\newblock Locating minimal infeasible constraint sets in linear programs.
+\newblock {\em INFORMS Journal on Computing}, {\bf 3}(2):157--168, 1991.
+
+\bibitem{dvcon10am}
+Orly Cohen, Moran Gordon, Michael Lifshits, Alexander Nadel, and Vadim Ryvchin.
+\newblock Designers work less with quality formal equivalence checking.
+\newblock In {\em Design and Verification Conference (DVCon)}, 2010.
+
+\bibitem{DHN06}
+Nachum Dershowitz, Ziyad Hanna, and Alexander Nadel.
+\newblock A scalable algorithm for minimal unsatisfiable core extraction.
+\newblock In {\em SAT'06}, pages 36--41, 2006.
+
+\bibitem{DGHP09}
+Christian Desrosiers, Philippe Galinier, Alain Hertz, and Sandrine Paroz.
+\newblock Using heuristics to find minimal unsatisfiable subformulas in
+  satisfiability problems.
+\newblock {\em J. Comb. Optim.}, {\bf 18}(2):124--150, 2009.
+
+\bibitem{minisat}
+Niklas E{\'e}n and Niklas S{\"o}rensson.
+\newblock An extensible {SAT}-solver.
+\newblock In Enrico Giunchiglia and Armando Tacchella, editors, {\em SAT},
+  ~{\bf 2919} of {\em Lecture Notes in Computer Science}, pages 502--518.
+  Springer, 2003.
+
+\bibitem{ES03}
+Niklas E{\'e}n and Niklas S{\"o}rensson.
+\newblock Temporal induction by incremental {SAT} solving.
+\newblock {\em Electr. Notes Theor. Comput. Sci.}, {\bf 89}(4), 2003.
+
+\bibitem{GKS06}
+Roman Gershman, Maya Koifman, and Ofer Strichman.
+\newblock Deriving small unsatisfiable cores with dominators.
+\newblock In {\em Proc. {$18^{th}$} Intl. Conference on Computer Aided
+  Verification (CAV'06)}, number 4144 in Lect. Notes in Comp. Sci., pages
+  109--122, 2006.
+
+\bibitem{GKS08}
+Roman Gershman, Maya Koifman, and Ofer Strichman.
+\newblock An approach for extracting a small unsatisfiable core.
+\newblock {\em J. on Formal Methods in System Design}, pages 1 -- 27, 2008.
+
+\bibitem{GN03}
+Evgueni Goldberg and Yakov Novikov.
+\newblock Verification of proofs of unsatisfiability for {CNF} formulas.
+\newblock In {\em Proceedings of Design, Automation and Test in Europe
+  Conference and Exhibition (DATE'03)}, pages 886--891, 2003.
+
+\bibitem{DBLP:journals/eor/GregoireMP09}
+{\'E}ric Gr{\'e}goire, Bertrand Mazure, and C{\'e}dric Piette.
+\newblock Using local search to find {MSS}es and {MUS}es.
+\newblock {\em European Journal of Operational Research}, {\bf
+  199}(3):640--646, 2009.
+
+\bibitem{GGYA03}
+A.~Gupta, M.~K. Ganai, Z.~Yang, and P.~Ashar.
+\newblock Iterative abstraction using sat-based bmc with proof analysis.
+\newblock In {\em ICCAD}, pages 416--423, 2003.
+
+\bibitem{G06}
+Anubhav Gupta.
+\newblock {\em Learning Abstractions for Model Checking}.
+\newblock PhD thesis, Carnegie Mellon University, 2006.
+
+\bibitem{KKB09}
+Zurab Khasidashvili, Daher Kaiss, and Doron Bustan.
+\newblock A compositional theory for post-reboot observational equivalence
+  checking of hardware.
+\newblock In {\em FMCAD}, pages 136--143, 2009.
+
+\bibitem{LB13}
+Jean-Marie Lagniez and Armin Biere.
+\newblock Factoring out assumptions to speed up {MUS} extraction.
+\newblock In Matti J{\"{a}}rvisalo and Allen~Van Gelder, editors, {\em SAT'13},
+  ~{\bf 7962} of {\em Lecture Notes in Computer Science}, pages 276--292.
+  Springer, 2013.
+
+\bibitem{DBLP:conf/dac/LeeJH08}
+Ruei-Rung Lee, Jie-Hong~Roland Jiang, and Wei-Lun Hung.
+\newblock Bi-decomposing large boolean functions via interpolation and
+  satisfiability solving.
+\newblock In Limor Fix, editor, {\em DAC}, pages 636--641. ACM, 2008.
+
+\bibitem{LMLAMS09}
+Mark~H. Liffiton, Maher~N. Mneimneh, In{\^e}s Lynce, Zaher~S. Andraus, Jo{\~a}o
+  Marques-Silva, and Karem~A. Sakallah.
+\newblock A branch and bound algorithm for extracting smallest minimal
+  unsatisfiable subformulas.
+\newblock {\em Constraints}, {\bf 14}(4):415--442, 2009.
+
+\bibitem{LS08}
+Mark~H. Liffiton and Karem~A. Sakallah.
+\newblock Algorithms for computing minimal unsatisfiable subsets of
+  constraints.
+\newblock {\em J. Autom. Reasoning}, {\bf 40}(1):1--33, 2008.
+
+\bibitem{LYNCE04}
+I.~Lynce and J.~Marques-Silva.
+\newblock On computing minimum unsatisfiable cores.
+\newblock In {\em Proceedings of the International Symposium on Theory and
+  Applications of Satisfiability Testing}, pages 305--310, 2004.
+
+\bibitem{DBLP:conf/cav/Marques-SilvaJB13}
+Joao Marques-Silva, Mikol{\'a}s Janota, and Anton Belov.
+\newblock Minimal sets over monotone predicates in boolean formulae.
+\newblock In Natasha Sharygina and Helmut Veith, editors, {\em CAV}, ~{\bf
+  8044} of {\em Lecture Notes in Computer Science}, pages 592--607. Springer,
+  2013.
+
+\bibitem{SL11}
+Joao Marques-Silva and Ines Lynce.
+\newblock On improving {MUS} extraction algorithms.
+\newblock In {\em SAT'11}, number 6695 in LNCS, pages 159--173, 2011.
+
+\bibitem{MA03}
+K.~McMillan and N.~Amla.
+\newblock Automatic abstraction without counterexamples.
+\newblock In Hubert Garavel and John Hatcliff, editors, {\em TACAS'03}, ~{\bf
+  2619} of {\em Lect. Notes in Comp. Sci.}, 2003.
+
+\bibitem{M03}
+K.L. McMillan.
+\newblock Interpolation and sat-based model checking.
+\newblock In Jr. Warren A.~Hunt and Fabio Somenzi, editors, {\em cav03}, Lect.
+  Notes in Comp. Sci., Jul 2003.
+
+\bibitem{NadelPhd}
+Alexander Nadel.
+\newblock {\em Understanding and Improving a Modern {SAT} Solver}.
+\newblock PhD thesis, Tel Aviv University, Tel Aviv, Israel, August 2009.
+
+\bibitem{N10}
+Alexander Nadel.
+\newblock Boosting minimal unsatisfiable core extraction.
+\newblock In Roderick Bloem and Natasha Sharygina, editors, {\em FMCAD}, 2010.
+
+\bibitem{NRS13}
+Alexander Nadel, Vadim Ryvchin, and Ofer Strichman.
+\newblock Efficient mus extraction with resolution.
+\newblock In {\em FMCAD}, pages 197--200. IEEE, 2013.
+
+\bibitem{OH04}
+Yoonna Oh, Maher~N. Mneimneh, Zaher~S. Andraus, Karem~A. Sakallah, and Igor~L.
+  Markov.
+\newblock Amuse: a minimally-unsatisfiable subformula extractor.
+\newblock In {\em DAC '04}, pages 518--523, 2004.
+
+\bibitem{PAPA88}
+Christos~H. Papadimitriou and David Wolfe.
+\newblock The complexity of facets resolved.
+\newblock {\em J. Comput. Syst. Sci.}, {\bf 37}(1):2--13, 1988.
+
+\bibitem{DBLP:conf/frocos/PietteHS09}
+C{\'e}dric Piette, Youssef Hamadi, and Lakhdar Sais.
+\newblock Efficient combination of decision procedures for {MUS} computation.
+\newblock In Silvio Ghilardi and Roberto Sebastiani, editors, {\em FroCos},
+  ~{\bf 5749} of {\em Lecture Notes in Computer Science}, pages 335--349.
+  Springer, 2009.
+
+\bibitem{RS11-URL}
+Vadim Ryvchin.
+\newblock Benchmarks + results:
+  http://ie.technion.ac.il/$\sim$ofers/sat11.html.
+
+\bibitem{RyvchinPhd}
+Vadim Ryvchin.
+\newblock {\em Core algorithms for SAT and SAT-related problems}.
+\newblock PhD thesis, Technion, IE, Haifa, Israel, 2014.
+
+\bibitem{RS11}
+Vadim Ryvchin and Ofer Strichman.
+\newblock Faster extraction of high-level minimal unsatisfiable cores.
+\newblock In {\em SAT'11}, number 6695 in LNCS, pages 174--187, 2011.
+
+\bibitem{SY07}
+Ohad Shacham and Karen Yorav.
+\newblock On-the-fly resolve trace minimization.
+\newblock In {\em DAC}, pages 594--599, 2007.
+
+\bibitem{DBLP:conf/ismvl/Silva10}
+Jo{\~a}o P.~Marques Silva.
+\newblock Minimal unsatisfiability: Models, algorithms and applications
+  (invited paper).
+\newblock In {\em ISMVL'10}, pages 9--14. {IEEE} Computer Society, 2010.
+
+\bibitem{DBLP:conf/sat/SorenssonB09}
+Niklas S{\"o}rensson and Armin Biere.
+\newblock Minimizing learned clauses.
+\newblock In Oliver Kullmann, editor, {\em SAT}, ~{\bf 5584} of {\em LNCS},
+  pages 237--243. Springer, 2009.
+
+\bibitem{DBLP:conf/charme/Shtrichman01}
+Ofer Strichman.
+\newblock Pruning techniques for the {SAT}-based bounded model checking
+  problem.
+\newblock In Tiziana Margaria and Thomas~F. Melham, editors, {\em CHARME},
+  ~{\bf 2144} of {\em Lecture Notes in Computer Science}, pages 58--70.
+  Springer, 2001.
+
+\bibitem{DBLP:conf/sat/MaarenW08}
+Hans van Maaren and Siert Wieringa.
+\newblock Finding guaranteed muses fast.
+\newblock In Hans~Kleine B{\"u}ning and Xishun Zhao, editors, {\em SAT}, ~{\bf
+  4996} of {\em Lecture Notes in Computer Science}, pages 291--304. Springer,
+  2008.
+
+\bibitem{DBLP:conf/dac/WhittemoreKS01}
+Jesse Whittemore, Joonyoung Kim, and Karem~A. Sakallah.
+\newblock {SATIRE}: A new incremental satisfiability engine.
+\newblock In {\em DAC}, pages 542--545. ACM, 2001.
+
+\bibitem{DBLP:conf/cp/Wieringa12}
+Siert Wieringa.
+\newblock Understanding, improving and parallelizing {MUS} finding using model
+  rotation.
+\newblock In Michela Milano, editor, {\em CP'12}, ~{\bf 7514} of {\em Lecture
+  Notes in Computer Science}, pages 672--687. Springer, 2012.
+
+\bibitem{DBLP:conf/ausai/ZhangLS06}
+Jianmin Zhang, Sikun Li, and ShengYu Shen.
+\newblock Extracting minimum unsatisfiable cores with a greedy genetic
+  algorithm.
+\newblock In Abdul Sattar and Byeong~Ho Kang, editors, {\em Australian
+  Conference on Artificial Intelligence}, ~{\bf 4304} of {\em Lecture Notes in
+  Computer Science}, pages 847--856. Springer, 2006.
+
+\bibitem{DBLP:journals/jsw/ZhangSL09}
+Jianmin Zhang, ShengYu Shen, and Sikun Li.
+\newblock Tracking unsatisfiable subformulas from reduced refutation proof.
+\newblock {\em JSW}, {\bf 4}(1):42--49, 2009.
+
+\bibitem{ZM03}
+L.~Zhang and S.~Malik.
+\newblock Extracting small unsatisfiable cores from unsatisfiable boolean
+  formulas.
+\newblock In {\em In Sixth International Conference on Theory and Applications
+  of Satisfiability Testing (SAT2003), S. Margherita Ligure}, 2003.
+
+\end{thebibliography}
